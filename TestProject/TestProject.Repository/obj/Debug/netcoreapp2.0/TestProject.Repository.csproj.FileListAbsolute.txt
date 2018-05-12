@@ -1,0 +1,9 @@
+D:\documents\TestProject\TestProject\TestProject.Repository\bin\Debug\netcoreapp2.0\TestProject.Repository.deps.json
+D:\documents\TestProject\TestProject\TestProject.Repository\bin\Debug\netcoreapp2.0\TestProject.Repository.dll
+D:\documents\TestProject\TestProject\TestProject.Repository\bin\Debug\netcoreapp2.0\TestProject.Repository.pdb
+D:\documents\TestProject\TestProject\TestProject.Repository\obj\Debug\netcoreapp2.0\TestProject.Repository.csprojResolveAssemblyReference.cache
+D:\documents\TestProject\TestProject\TestProject.Repository\obj\Debug\netcoreapp2.0\TestProject.Repository.csproj.CoreCompileInputs.cache
+D:\documents\TestProject\TestProject\TestProject.Repository\obj\Debug\netcoreapp2.0\TestProject.Repository.AssemblyInfoInputs.cache
+D:\documents\TestProject\TestProject\TestProject.Repository\obj\Debug\netcoreapp2.0\TestProject.Repository.AssemblyInfo.cs
+D:\documents\TestProject\TestProject\TestProject.Repository\obj\Debug\netcoreapp2.0\TestProject.Repository.dll
+D:\documents\TestProject\TestProject\TestProject.Repository\obj\Debug\netcoreapp2.0\TestProject.Repository.pdb
